@@ -1,0 +1,16 @@
+2025-09-29T12:13:44.597044200 [ERROR]: Error: Invalid time format. Use HH:mm2025-09-29T12:14:13.171181700 [ERROR]: Error: Invalid time format. Use HH:mm2025-09-29T12:16:43.897454 [ERROR]: Error: Invalid time format. Use HH:mm2025-09-29T12:19:30.296095900 [ERROR]: Error: Invalid time format. Use HH:mm
+2025-09-29T12:19:55.916369400 [INFO]: Error: Task not found.
+2025-09-29T12:20:09.353226800 [INFO]: Error: Task not found.
+2025-09-29T12:23:28.583620700 [ERROR]: Error: Invalid time format. Use HH:mm
+2025-09-29T12:24:04.489629400 [INFO]: Error: Task not found.
+2025-09-29T12:25:49.440075300 [ERROR]: No line found
+2025-09-29T12:26:05.531574200 [INFO]: Task added: mmm
+2025-09-29T12:26:19.221702400 [INFO]: Task removed: mmm
+2025-09-29T12:31:56.539045700 [ERROR]: Error: Invalid time format. Use HH:mm
+2025-09-29T12:39:15.340159100 [INFO]: Error: Task not found.
+2025-09-29T12:39:33.624680900 [ERROR]: Error: Invalid time format. Use HH:mm
+2025-09-29T15:19:03.156878400 [ERROR]: Error: Invalid time format. Use HH:mm
+2025-09-29T15:21:06.954847 [INFO]: Task added: Moon
+2025-09-29T15:49:33.947334400 [INFO]: Task marked as completed: Moon
+2025-09-29T15:50:00.108217200 [INFO]: Task removed: Moon
+2025-09-29T15:50:06.333707700 [INFO]: Application exited.
