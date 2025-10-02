@@ -61,14 +61,3 @@ javac *.java
 java Main
 ```
 Repeat for other demos.
-
----
-
-## Requirements
-
-- Java 8 or higher
-- Console access
-
-## Author
-
-Prepared for PDEU Placement Education Innovation Exercise.
